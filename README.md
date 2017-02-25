@@ -5,7 +5,7 @@
 
 **Team :**
 
-1. [Jeyassri.](https://github.com/shreeju)
+1. [Jeyassri.B](https://github.com/shreeju)
 2. Nishit Singh Bindra.
 3. Keerthivasan C.
 4. Nilay Junghare.
